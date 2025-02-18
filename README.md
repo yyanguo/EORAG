@@ -1,2 +1,2 @@
 # EORAG
-The codes used in "Restarted Multiple Kernel Algorithms with Self-Guiding for Large-Scale Multi-View Clustering".
+The codes used in "Efficient One-Step Multi-View Subspace Clustering via Robust Anchor Graph Learning".
